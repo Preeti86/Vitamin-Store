@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Using React, es6 
+## components state for interactions, grids, loading animation, hover, navigation, scrolling interactions, 
+
 ## Available Scripts
 
 In the project directory, you can run:
