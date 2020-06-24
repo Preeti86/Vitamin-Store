@@ -1,11 +1,4 @@
-React interaction app
-
-Using React, es6 
-Components state for interactions, grids, loading animation, hover, navigation, scrolling interactions, 
-
-## Available Scripts
-
-In the project directory, you can run:
+ In the project directory, you can run:
 
 ### `npm start`
 
