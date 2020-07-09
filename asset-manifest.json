@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/VitaminStore/static/css/main.404f6e57.chunk.css",
-    "main.js": "/VitaminStore/static/js/main.ed32f2e3.chunk.js",
-    "main.js.map": "/VitaminStore/static/js/main.ed32f2e3.chunk.js.map",
-    "runtime-main.js": "/VitaminStore/static/js/runtime-main.b702c283.js",
-    "runtime-main.js.map": "/VitaminStore/static/js/runtime-main.b702c283.js.map",
-    "static/js/2.3cf884da.chunk.js": "/VitaminStore/static/js/2.3cf884da.chunk.js",
-    "static/js/2.3cf884da.chunk.js.map": "/VitaminStore/static/js/2.3cf884da.chunk.js.map",
-    "index.html": "/VitaminStore/index.html",
-    "precache-manifest.4a835b1f54b718361e1828849bd618ea.js": "/VitaminStore/precache-manifest.4a835b1f54b718361e1828849bd618ea.js",
-    "service-worker.js": "/VitaminStore/service-worker.js",
-    "static/css/main.404f6e57.chunk.css.map": "/VitaminStore/static/css/main.404f6e57.chunk.css.map",
-    "static/js/2.3cf884da.chunk.js.LICENSE.txt": "/VitaminStore/static/js/2.3cf884da.chunk.js.LICENSE.txt",
-    "static/media/juice.jpg": "/VitaminStore/static/media/juice.977709da.jpg",
-    "static/media/logo.png": "/VitaminStore/static/media/logo.a68903b3.png"
+    "main.css": "/VitaminShop/static/css/main.404f6e57.chunk.css",
+    "main.js": "/VitaminShop/static/js/main.c9468206.chunk.js",
+    "main.js.map": "/VitaminShop/static/js/main.c9468206.chunk.js.map",
+    "runtime-main.js": "/VitaminShop/static/js/runtime-main.7b5ce9f2.js",
+    "runtime-main.js.map": "/VitaminShop/static/js/runtime-main.7b5ce9f2.js.map",
+    "static/js/2.3cf884da.chunk.js": "/VitaminShop/static/js/2.3cf884da.chunk.js",
+    "static/js/2.3cf884da.chunk.js.map": "/VitaminShop/static/js/2.3cf884da.chunk.js.map",
+    "index.html": "/VitaminShop/index.html",
+    "precache-manifest.a5b93c67d090ffa07122ae73f603787a.js": "/VitaminShop/precache-manifest.a5b93c67d090ffa07122ae73f603787a.js",
+    "service-worker.js": "/VitaminShop/service-worker.js",
+    "static/css/main.404f6e57.chunk.css.map": "/VitaminShop/static/css/main.404f6e57.chunk.css.map",
+    "static/js/2.3cf884da.chunk.js.LICENSE.txt": "/VitaminShop/static/js/2.3cf884da.chunk.js.LICENSE.txt",
+    "static/media/juice.jpg": "/VitaminShop/static/media/juice.977709da.jpg",
+    "static/media/logo.png": "/VitaminShop/static/media/logo.a68903b3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b702c283.js",
+    "static/js/runtime-main.7b5ce9f2.js",
     "static/js/2.3cf884da.chunk.js",
     "static/css/main.404f6e57.chunk.css",
-    "static/js/main.ed32f2e3.chunk.js"
+    "static/js/main.c9468206.chunk.js"
   ]
 }
